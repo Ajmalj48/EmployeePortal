@@ -1,6 +1,6 @@
 ﻿namespace EmployeePortal.IntegrationTests;
 
-public class UnitTest1
+public class EmployeesApiTests
 {
     [Fact]
     public void Test1()
